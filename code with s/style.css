@@ -1,8 +1,5 @@
-h1{
-  color:;
 
-  
-}
+
 h1{
 color: white;
 background-color: black;
@@ -12,4 +9,7 @@ background-color: lightgray;
 }
 title{
    font-style:italic ;
+}
+body{
+  background-color: white;
 }
